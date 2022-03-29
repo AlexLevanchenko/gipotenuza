@@ -15,5 +15,17 @@ public class gipotenuza {
             c = Math.sqrt(a * a + b * b);
             System.out.print("Гипотенуза: " + c);
         }
+
+//        if (a <= 0 && b <= 0) {
+//        System.out.println("Значение не может быть меньше или равно нулю");
+//        } else if (a <= 0) {
+//            System.out.println("Значение не может быть меньше или равно нулю");
+//        } else if (b <= 0) {
+//            System.out.println("Значение не может быть меньше или равно нулю");
+//        } else {
+//            c = Math.sqrt(a * a + b * b);
+//            System.out.println("Гипотенуза: " + c);
+//        }
+
     }
 }
